@@ -1,0 +1,35 @@
+{
+    "noMobile": "Mobile devices not supported.",
+
+    "about": "About",
+    "aboutText": "TechSearchMK can be used to query and aggregate results from Macedonian tech sites (currently Setec, Anhoch and Technomarket).",
+    "prefixText": "You can prefix your searches to refine the results. A \"+\" prefix ensures each result has the keyword, while a \"-\" prefix ensures the keyword does not appear.",
+    "ossText": "TechSearchMK is free and open-source software. It's source code can be found at",
+    "close": "Close",
+
+    "search": "Search",
+    "searchTerm": "Enter search term",
+    "searchLoading": "This might take a while",
+
+    "error": "Error",
+    "errorTermShort": "Entered term is too short",
+    "errorTermNoResult": "No results for entered term",
+
+    "price": "Price",
+    "priceNone": "Sort by relevance",
+    "priceAscending": "Sort by ascending price",
+    "priceDescending": "Sort by descending price",
+
+    "page": "Page",
+
+    "settings": "Settings",
+    "retailer": "Retailer",
+    "anhoch": "Anhoch",
+    "setec": "Setec",
+    "ddstore": "DDStore",
+    "technomarket": "Technomarket",
+
+    "themeToggle": "Toggle theme",
+    "lightMode": "Light mode",
+    "darkMode": "Dark mode"
+}
