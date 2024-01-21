@@ -1,5 +1,5 @@
 const ENDPOINT = {
-    corsProxy: 'https://techsearchmk-cors.weilnet.workers.dev/?',
+    corsProxy: 'https://wn-cors.weilnet.workers.dev/',
     setec:
         'https://setec.mk/index.php?route=product/search&limit=128&mfp=stock_status[5]&search=',
     anhoch:
